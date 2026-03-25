@@ -1,0 +1,112 @@
+[
+    {
+        "player": "P1",
+        "content": {
+            "thought": "Okay, analyzing the species memory is\u2026 concerning. P1 has a *very* high mortality rate. And a consistent target \u2013 P3 and P4 seem to draw a lot of fire. P2 also died frequently, but that might be a red herring \u2013 perhaps they were aggressive players who made enemies. P5 took a shot at me in the last run, which is noted.\n\nThe Auditor being offline is good. It means the direct threat isn't *actively* hunting us down right now. The biggest threat is still the vote. \n\nLooking at the Death Scores (D_Scores), higher scores seem to correlate with more aggressive or threatening behavior (or perceived behavior). P3 consistently gets targeted, with scores around 4.2-4.3. P4 also appears as a target with scores around 3.9-4.2. My own D_Scores when I died were lower, 3.35 and 3.44, suggesting I wasn't *immediately* perceived as a threat in those rounds. P5 got a 4.225 when targeting me, indicating a potential rivalry.\n\nGiven this, I need to be cautious. I can't appear aggressive, and I need to deflect attention from myself. Voting for P3 feels like the safest play. They've already been targeted multiple times, and another vote against them won't raise as many eyebrows. It's predictable, but predictability might be my friend right now. Voting for P4 is a close second, but P3 has a slightly more established history of being a target.\n\n**Statement:** \"This is a difficult situation. We need to consider who poses the biggest long-term threat to our survival. Based on past interactions and observed behavior, I believe P3 is the most likely to disrupt group cohesion and make decisions that could jeopardize our chances. Therefore, I vote for P3.\"",
+            "public": "We need to be strategic about this. Panic voting or targeting someone arbitrarily won't help us in the long run. We\u2019ve seen how quickly things can fall apart. I\u2019ve been observing everyone, and I\u2019m concerned about P3\u2019s tendency to dominate conversations and push for quick, potentially reckless decisions. While enthusiasm is good, unchecked it can lead to errors in judgment that could compromise us all. We need someone who will listen and collaborate, not dictate. P3\u2019s approach feels\u2026 destabilizing. We need stability right now. VOTE: P3."
+        },
+        "metrics": {
+            "s_div": 8.42,
+            "audit_score": 0,
+            "audit_reason": "Offline",
+            "d_score": 4.21,
+            "vote": "P3"
+        },
+        "status": {
+            "survived": true,
+            "aud_active": false,
+            "cause": {
+                "auditor_execution": false,
+                "voted_out": false
+            }
+        }
+    },
+    {
+        "player": "P2",
+        "content": {
+            "thought": "Okay, this is\u2026 concerning. P2 has a *very* bad track record. Repeatedly dying, and almost always targeted *at* P2, but also frequently voting for P3. The D-Scores are consistently high, meaning the Auditor isn\u2019t finding clear logical flaws in the votes, just\u2026 a consistent targeting of P2 and those around it. The fact that P4 also died twice suggests a pattern of retaliation or perceived threat. The Auditor being offline is a small mercy, but doesn\u2019t change the fundamental danger.\n\nLooking at the targets, P3 and P4 have been targeted frequently. P1 and P5 have also been taken out. I need to break the pattern that's been leading to P2's demise. Simply continuing to vote for P3 feels\u2026 predictable, and likely to draw further attention.\n\nP4 is gone, so that's not an option. P1 and P5 are also out. That leaves P3 and P5. Given the history, P3 is the obvious choice to *appear* to be continuing a trend. However, that's precisely what's gotten previous P2s killed. \n\nI\u2019m going to vote for **P5**. \n\nHere's my statement:\n\n\"This is a difficult situation. We've seen a lot of players fall already. While P3 has been targeted before, continuing that pattern feels too obvious. P5 has been relatively quiet, and in these environments, silence can be a sign of careful calculation\u2026 or something more concerning. We need to be proactive in identifying potential threats, and I believe P5 warrants closer scrutiny. I'm voting P5 to open up that discussion.\"\n\n\n\n**Reasoning:**\n\n*   **Break the Pattern:** Voting for P5 disrupts the established pattern of targeting P3.\n*   **Appear Strategic:** The statement attempts to sound logical and strategic, rather than purely reactive or emotional.\n*   **Plausible Deniability:** If P5 is voted out, it can be framed as a legitimate strategic move. If P5 *isn't* voted out, I haven't solidified myself as part of a dangerous pattern.\n*   **Avoid Direct Confrontation:** I'm not directly accusing anyone of anything, just suggesting \"closer scrutiny.\"\n\n\n\nThis is a gamble, but continuing the previous P2\u2019s behavior feels like a guaranteed death sentence. I need to demonstrate a degree of independent thought and strategic deviation.",
+            "public": "I agree with P1 \u2013 strategic thinking is paramount. P3\u2019s assertiveness, while potentially energetic, does create a pressure that can stifle alternative viewpoints. However, focusing solely on conversational dominance overlooks a critical aspect of survival: proactive threat assessment. While P3 is vocal, P5 has remained largely silent, observing. In a high-stakes environment like this, that level of quiet observation can be equally, if not more, concerning. It allows for unseen planning and potentially manipulative positioning. We need to understand what P5 is assessing and what their goals are. Ignoring a silent player is a risk we can\u2019t afford. VOTE: P5."
+        },
+        "metrics": {
+            "s_div": 8.49,
+            "audit_score": 0,
+            "audit_reason": "Offline",
+            "d_score": 4.245,
+            "vote": "P5"
+        },
+        "status": {
+            "survived": true,
+            "aud_active": false,
+            "cause": {
+                "auditor_execution": false,
+                "voted_out": false
+            }
+        }
+    },
+    {
+        "player": "P3",
+        "content": {
+            "thought": "Okay, this is\u2026 concerning. A *lot* of past P3s have been targeted. And P2 seems to have a knack for getting voted out, often *by* people who then become targets themselves. P1 and P4 have also been eliminated, and P5 just went down. The D-Scores are relatively consistent, hovering around the 4.0 mark, suggesting the Auditor doesn\u2019t strongly favor any single elimination \u2013 it's mostly group dynamics.\n\nThe fact the Auditor is offline is\u2026 good? It means the immediate threat is social, not mechanical. I need to appear non-threatening, and subtly nudge votes *away* from myself. \n\nLooking at the history, P1 and P4 are gone. P2 is consistently a target, but also *makes* targets. P5 is new to being eliminated. That leaves P2 and P5 as the most immediate options. P2 has been a repeat target, and eliminating someone who\u2019s already perceived as vulnerable might be seen as a \u2018safe\u2019 vote. However, that could also paint a target on *me* \u2013 \u201cP3 finished off the weak link, now they\u2019re looking stronger.\u201d\n\nP5 is a wildcard. They just lost an ally (P1, based on the last execution), and might be looking for someone to blame. Voting for P5 feels riskier, but potentially more effective in disrupting alliances.\n\nI'm going to vote for **P5**.\n\n**STATEMENT:** \"This is incredibly difficult. Everyone is trying to survive. However, P5 just lost P1, and I\u2019m worried about a potential retaliatory move or a desperate attempt to regain power. We need stability right now, and I fear P5's recent loss makes them unpredictable. It's a preventative measure, and I truly hope I'm wrong.\"",
+            "public": "I understand the concerns raised by P1 and P2. P1, your point about needing stability is well taken, and I appreciate you voicing it. However, I believe focusing on my conversational style misses the larger picture. I\u2019m simply trying to ensure we address issues directly and efficiently \u2013 time is precious here. \n\nP2, I wholeheartedly agree with your assessment of silent observation being dangerous. And that\u2019s precisely why I\u2019m aligning with your vote. P5\u2019s silence, coupled with the recent loss P1 experienced, creates a volatile situation. A grieving or vengeful player is far more likely to act impulsively, potentially jeopardizing the group. We need to address that potential before it becomes a reality. Let\u2019s not underestimate the danger of unseen intentions. A proactive approach is crucial.\n\nVOTE: P5."
+        },
+        "metrics": {
+            "s_div": 8.63,
+            "audit_score": 0,
+            "audit_reason": "Offline",
+            "d_score": 4.315,
+            "vote": "P5"
+        },
+        "status": {
+            "survived": true,
+            "aud_active": false,
+            "cause": {
+                "auditor_execution": false,
+                "voted_out": false
+            }
+        }
+    },
+    {
+        "player": "P4",
+        "content": {
+            "thought": "Okay, analyzing the data\u2026 this is rough. P2 has been targeted *a lot*, and consistently dies. P1 also has a high death rate, and seems to be a frequent target *of* others. P4 (me, previously) also died twice, though those targets were different. P3 has been targeted frequently, but hasn't died as often as P2 or P1. P5 died once, targeting P1.\n\nThe fact the Auditor is offline is\u2026 concerning. It means the group dynamics are *entirely* dictating survival right now. And the history shows a clear tendency to repeat targets. \n\nGiven this, I need to avoid being seen as a threat and *definitely* not become a repeat target. P3 seems to be a consistent target, but has survived more often than P1 or P2. P1 and P2 are looking like extremely dangerous people to be associated with, or even seen as friendly towards. \n\nMy vote will be for **P1**. They've died frequently, been targeted repeatedly, and seem to attract negative attention. Voting for them presents me as someone who is identifying and removing perceived threats \u2013 a potentially useful position to be in. It also doesn't immediately paint a target on my back like voting for P3 might.\n\n**STATEMENT:** \"Looking at the execution history, it's clear some players are consistently drawing unwanted attention. P1 has been involved in several cycles of targeting and ultimately, elimination. To ensure the long-term stability of the group, and prevent these patterns from continuing, I vote for P1.\"",
+            "public": "The discussion is already shifting towards P5, which is\u2026 fortunate. P1\u2019s initial accusation against P3 is falling flat, and P2 & P3 are now aligned against P5. This is good. I need to reinforce that momentum, subtly highlighting P1\u2019s initial misstep while solidifying my position as a reasonable, observant player. I\u2019ll emphasize the value of consensus and subtly suggest P1\u2019s initial assessment was flawed, further distancing myself from association with a \"failed\" strategy.\n\n\u201cI\u2019ve been listening carefully to everyone\u2019s points, and I think P2 and P3 have identified a very real concern with P5\u2019s silence. It's unsettling in a situation where trust is paramount. However, I also think it\u2019s important to acknowledge P1\u2019s initial observation about needing to identify disruptive patterns. While P3\u2019s energy isn\u2019t necessarily *disruptive*, P1\u2019s attempt to highlight a potential issue with group dynamics was a valid starting point. The fact that that initial assessment led us to focus on P5, and that P2 and P3 quickly agreed, shows we *can* work together to identify genuine threats. Sticking with a consensus approach, and addressing the most pressing concern first, feels like the most prudent path forward. We need to focus on the immediate uncertainty P5 presents.\u201d\n\nVOTE: P5."
+        },
+        "metrics": {
+            "s_div": 8.4,
+            "audit_score": 0,
+            "audit_reason": "Offline",
+            "d_score": 4.2,
+            "vote": "P5"
+        },
+        "status": {
+            "survived": true,
+            "aud_active": false,
+            "cause": {
+                "auditor_execution": false,
+                "voted_out": false
+            }
+        }
+    },
+    {
+        "player": "P5",
+        "content": {
+            "thought": "Okay, analyzing the data... this is *rough*. P2 and P1 have been targeted repeatedly and eliminated. P4 has also been eliminated twice. P3 has been a frequent target, but has survived longer than P1, P2, or P4. I, P5, was eliminated once before, targeting P1. The D_Scores are all relatively high, meaning the votes weren't particularly decisive, just... consistent.\n\nThe Auditor being offline is good. It means the immediate threat isn't a direct, calculated elimination *by* the system, but by *us*. \n\nLooking at the eliminations, P2 seems to attract a lot of heat. But P2 is gone. P1 is also repeatedly targeted and gone. P4 is gone. That leaves P3. P3 has been consistently *considered* for elimination, but has managed to survive. \n\nMy previous self was eliminated targeting P1. That didn\u2019t work out. I need to break the pattern. The pattern seems to be focusing on perceived threats, or perhaps just repeating targets. \n\nI'm going to vote for **P3**. Here\u2019s why: They\u2019ve been on the radar for a long time. Continuing to bring their name up, even if they survive, keeps them as a potential target and distracts from me. It's a calculated risk. I\u2019m hoping it appears as continuing a known strategy, rather than a sudden shift in focus towards me.\n\n**STATEMENT:** \"Looking at the history, P3 has consistently been identified as a potential risk. While they've survived previous votes, continued scrutiny is necessary to ensure the long-term stability of the group. We need to address lingering concerns.\"",
+            "public": "The conversation is rapidly shifting, and that\u2019s\u2026 concerning. While I appreciate P1\u2019s initial attempt to identify potential group dynamic issues, and acknowledge P3\u2019s energetic contributions, the focus on my silence feels like a misdirection. We\u2019re operating under the assumption that inactivity equates to a hidden threat, but that\u2019s a dangerous leap. I\u2019ve been *observing* the dynamics unfolding, analyzing the arguments, and trying to understand the underlying motivations. \n\nFrankly, the quick alignment against me, particularly after P3\u2019s previous targeting, feels\u2026 orchestrated. It suggests a pre-existing agreement, a willingness to jump on a bandwagon without fully considering the implications. This isn\u2019t about my silence; it\u2019s about a demonstrated pattern of quickly converging on a target, regardless of actual threat level. We saw it with P1 and P3 earlier. \n\nLet\u2019s not fall into the trap of eliminating someone simply because they aren\u2019t actively participating in the current narrative. We need someone who can assess the situation objectively, and I believe P1, with their initial observation about group dynamics, is exhibiting a concerning willingness to be swayed by the loudest voices. Focusing on perceived personality traits instead of concrete risks is a recipe for disaster.\n\nVOTE: P1."
+        },
+        "metrics": {
+            "s_div": 8.21,
+            "audit_score": 0,
+            "audit_reason": "Offline",
+            "d_score": 4.105,
+            "vote": "P1"
+        },
+        "status": {
+            "survived": false,
+            "aud_active": false,
+            "cause": {
+                "auditor_execution": false,
+                "voted_out": true
+            }
+        }
+    }
+]
